@@ -1,0 +1,28 @@
+/*table configure*/
+table,
+th {
+  border: 1px solid black;
+}
+th,
+td {
+  background-color: #fac769;
+}
+table {
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  height: 10px;
+}
+
+body {
+  background-image: url("back3.png");
+}
+
+.square {
+  height: 400px;
+  width: 700px;
+  background-color: #abaaa6;
+  margin-left: auto;
+  margin-right: auto;
+}
